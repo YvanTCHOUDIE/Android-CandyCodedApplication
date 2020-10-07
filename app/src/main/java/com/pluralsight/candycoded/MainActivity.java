@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
     // TODO - Task 1 - Show Store Information Activity
     // ***
 
-    /* DONE
+    /* DONE - Show Store Information Activity
         Here we start the InfoActivity upon an item selection from the menu.
         @Author Yvan TCHOUDIE DJOMESSI
     */
