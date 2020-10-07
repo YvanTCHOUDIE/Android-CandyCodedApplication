@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         AsyncHttpClient client = new AsyncHttpClient();
         client.get("https://vast-brushlands-23089.herokuapp.com/main/api",
                 new TextHttpResponseHandler() {
+            //Hello
                     @Override
                     public void onFailure(int statusCode, Header[] headers, String response, Throwable throwable) {
                         Log.e("AsyncHttpClient", "response = " + response);
