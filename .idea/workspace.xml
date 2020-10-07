@@ -4,11 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Adding a comment test">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Yvan TCHOUDIE &lt;yvan.tchoudie@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602099256383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start the Store Information Activity - Activity completed by Yvan TCHOUDIE DJOMESSI">
+      <created>1602100329074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602100329074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -273,10 +281,12 @@
     <history-entry file="_1_StartTheStoreInformationActivity - 2020.10.07 at 20h 31m 45s.xml">
       <configuration name="_1_StartTheStoreInformationActivity" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="_1_StartTheStoreInformationActivity - 2020.10.07 at 20h 49m 41s.xml">
+      <configuration name="_1_StartTheStoreInformationActivity" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35079366" />
@@ -308,7 +318,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding a comment test" />
     <MESSAGE value="Start the Store Information Activity: &#10;Task completed by Yvan TCHOUDIE DJOMESSI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the Store Information Activity: &#10;Task completed by Yvan TCHOUDIE DJOMESSI" />
+    <MESSAGE value="Start the Store Information Activity - Activity completed by Yvan TCHOUDIE DJOMESSI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the Store Information Activity - Activity completed by Yvan TCHOUDIE DJOMESSI" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
