@@ -43,6 +43,7 @@ public class InfoActivity extends AppCompatActivity {
         if (mapIntent.resolveActivity(getPackageManager()) != null) {
 
             startActivity(mapIntent);
+
         }
 
     }
@@ -50,4 +51,18 @@ public class InfoActivity extends AppCompatActivity {
     // ***
     // TODO - Task 3 - Launch the Phone Activity
     // ***
+
+    /* DONE - Launch the Phone Activity
+        Here we start the InfoActivity upon an item selection from the menu.
+        @Author Yvan TCHOUDIE DJOMESSI
+    */
+
+    public void createPhoneIntent(View view) {
+
+        Intent dialIntent = new Intent(Intent.ACTION_DIAL);
+        Uri telUri = Uri.parse("tel:0123456789");
+        dialIntent.setData(telUri);
+        startActivity(dialIntent);
+
+    }
 }
