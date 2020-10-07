@@ -84,11 +84,9 @@ public class MainActivity extends AppCompatActivity {
     // TODO - Task 1 - Show Store Information Activity
     // ***
 
-
-    /*
-        Here we are going to start the InfoActivity upon an item selection from the menu.
-        @Author
-        Yvan TCHOUDIE DJOMESSI
+    /* DONE
+        Here we start the InfoActivity upon an item selection from the menu.
+        @Author Yvan TCHOUDIE DJOMESSI
     */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
